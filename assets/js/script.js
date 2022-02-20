@@ -122,7 +122,7 @@ function init () {
     if (searchHistory.length > 0) {
         getWeather(searchHistory[searchHistory.length - 1]);
     }
-
+    
 }
 
 init();
